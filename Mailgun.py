@@ -132,5 +132,3 @@ print(result.json())
 result = obj.remove_list()
 print(result.json())
 
-a="test"
-print(a)
